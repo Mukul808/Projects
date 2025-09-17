@@ -15,6 +15,7 @@ Dashboard Screen-
 1. Displays the list of movies in Recycler view.
 2. Fetches the data with the use of keypass.
 3. Shows information aboit each object including title, genre, director and release year.
+4. The list of entities displayed dependends on the entities in the API link.
 
 Details Screen-
 1. Dislplays the complete information about the movie on click.
