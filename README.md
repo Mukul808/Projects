@@ -27,5 +27,7 @@ POST https://nit3213api.onrender.com/footscray/auth
 How to Run the Porject
 
 Clone the repository: git clone <link of repository>
-The project shoudl be opened in Android Studio.
+
+The project should be opened in Android Studio.
+
 Sync Gradle for installation of dependencies. 
